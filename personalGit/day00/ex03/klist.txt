@@ -1,0 +1,7 @@
+Credentials cache: API:25318
+        Principal: rfrancal@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  8 22:51:04 2017  Aug  9 08:51:04 2017  krbtgt/42.US.ORG@42.US.ORG
+Aug  8 22:51:05 2017  Aug  9 08:51:04 2017  ldap/ldap-proxy.42.us.org@42.US.ORG
+Aug  8 23:06:28 2017  Aug  9 08:51:04 2017  host/vgs-fn1.42.us.org@42.US.ORG
